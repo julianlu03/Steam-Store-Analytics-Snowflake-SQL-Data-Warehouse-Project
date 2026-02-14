@@ -1,5 +1,5 @@
 # Steam Store Analytics - Snowflake SQL Data Warehouse Project
-End-to-end Snowflake data warehouse for 27K+ Steam games using medallion architecture, dimensional modeling, and Snowflake-native AI features.
+Built an end-to-end Snowflake data warehouse for 27K+ Steam games using medallion architecture (Bronze/Silver/Gold), dimensional modeling, and Snowflake-native AI features.
 
 ## Overview
 
