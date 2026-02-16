@@ -3,7 +3,7 @@ Built an end-to-end Snowflake data warehouse for 27K+ Steam games using medallio
 
 ## Overview
 
-This project implements an end-to-end analytics pipeline in **Snowflake** using a medallion architecture (Bronze / Silver / Gold) to analyze the Steam game marketplace. The pipeline is built entirely with Snowflake-native SQL notebooks, emphasizing clean data modeling, incremental processing, and analytics-ready outputs. The final datasets power exploratory analysis and dashboards across categories, genres, publishers, reviews, and sentiment.
+This project implements an end-to-end analytics pipeline in Snowflake using a medallion architecture (Bronze / Silver / Gold) to analyze the Steam game marketplace. The pipeline is built entirely with Snowflake-native SQL notebooks, emphasizing clean data modeling, incremental processing, and analytics-ready outputs. The final datasets power exploratory analysis and dashboards across categories, genres, publishers, reviews, and sentiment.
 
 **Primary goal:** demonstrate production-style SQL, Snowflake fundamentals, and analytics engineering best practices
 
